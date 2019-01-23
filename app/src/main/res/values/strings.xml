@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarea Lista</string>
+    <string name="nuevo">Nuevo...</string>
+    <string name="newname">Introduzca nuevo Nombre:</string>
+    <string name="add">Añadir</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Borrar</string>
+</resources>
