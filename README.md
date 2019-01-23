@@ -1,7 +1,7 @@
 # Tarea 3 Lista de Nombres
-## Tarea UT2 parte 2 de Programación Multimedia y Dispositivos Móviles
+## Tarea UT3 de Programación Multimedia y Dispositivos Móviles
 
-### Unidad de Trabajo 02
+### Unidad de Trabajo 03
 #### Diseño de la Interfaz de Usuario
 #### Práctica a Entregar
 
